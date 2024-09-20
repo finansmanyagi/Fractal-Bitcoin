@@ -6,7 +6,7 @@
 
  ## Peki Nedir Bu Fractal Bitcoin ?
 Fractal Bitcoin, sonsuz katmanları yinelemeli olarak ölçeklendirmek için Bitcoin Core kodunu kullanan tek Bitcoin ölçeklendirme çözümüdür. Bu, Bitcoin'e uygulanan dünyadaki ilk sanallaştırma yöntemidir. Fractal, Bitcoin blok zincirini, Bitcoin ana zincirindeki tutarlılığı bozmadan ölçeklenebilir bir bilgi işlem sistemine kademeli olarak genişletir. Güçlü araçlar ve destek ile Fractal üzerine inşa etmek oldukça basittir.
-**[Eğer flood hakkında okumak isterseinz X'ten takip etmeyi unutmayınız.](https://x.com/finans_manyagi)**
+**[Eğer flood hakkında okumak isterseniz X'ten takip edebilirsiniz.](https://x.com/finans_manyagi)**
 
 ## Kurulum
 
